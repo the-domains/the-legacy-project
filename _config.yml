@@ -28,13 +28,13 @@ cta:
   domain: null
 color:
   brandStrength: 0.9793683225288987
-  saturation: 0.6388148437254131
+  lightness: 0.3319149
+  saturation: 0
+  rhythmicContrast: 1
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  lightness: 0.9959869016893208
-  rhythmicContrast: 0.003955773543566465
 typography_spectrum: 0.8283412507735193
