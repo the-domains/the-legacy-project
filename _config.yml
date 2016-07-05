@@ -29,8 +29,8 @@ cta:
 color:
   brandStrength: 0.9793683225288987
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 0
+  saturation: 0.4191489
+  rhythmicContrast: 1
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
