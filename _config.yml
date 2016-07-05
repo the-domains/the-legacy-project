@@ -3,9 +3,9 @@ favicon: null
 name: The Legacy Project
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -23,14 +23,14 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 color:
   brandStrength: 0.9793683225288987
-  lightness: 0.3319149
-  saturation: 0
-  rhythmicContrast: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
