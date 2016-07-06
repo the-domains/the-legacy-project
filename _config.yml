@@ -1,15 +1,7 @@
-layout_spectrum: 0
-favicon: null
 name: The Legacy Project
-purpose: []
-analytics:
-  facebook: null
-  google: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.8283412507735193
 collections:
   - index:
       navigable: true
@@ -24,17 +16,25 @@ collections:
       path: '/:title/'
 cta:
   domain: null
-  version: null
   bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.9793683225288987
-  lightness: 1
-  saturation: 0.4191489
-  rhythmicContrast: 1
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-typography_spectrum: 0.8283412507735193
+  brandStrength: 0.9793683225288987
+  lightness: 1
+  saturation: 0.4191489
+  rhythmicContrast: 1
+purpose: []
