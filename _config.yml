@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: The Legacy Project
 opengraph:
   image: null
   type: null
@@ -31,10 +29,12 @@ color:
     - '#9d8563'
   rhythmicContrast: 0.25
 typography_spectrum: 0.90026
+layout_spectrum: 0.2175379
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0
-favicon: null
-name: The Legacy Project
+analytics:
+  twitter: null
+  google: null
+  facebook: null
