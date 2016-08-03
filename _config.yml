@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: The Legacy Project
 opengraph:
   image: null
   type: null
@@ -18,7 +16,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0
+purpose: []
 color:
   saturation: 0.9375
   brandStrength: 0
@@ -30,11 +28,13 @@ color:
     - '#835b37'
     - '#9d8563'
   lightness: 0
-purpose: []
+typography_spectrum: 0.90026
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
-name: The Legacy Project
-typography_spectrum: 0.90026
+layout_spectrum: 0.1711636
+analytics:
+  twitter: null
+  google: null
+  facebook: null
