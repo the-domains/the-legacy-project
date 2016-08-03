@@ -1,4 +1,7 @@
-name: The Legacy Project
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -9,13 +12,13 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0
 color:
   saturation: 0.9375
   brandStrength: 0
@@ -27,14 +30,11 @@ color:
     - '#835b37'
     - '#9d8563'
   lightness: 0
-typography_spectrum: 0.90026
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 favicon: null
-layout_spectrum: 0
+name: The Legacy Project
+typography_spectrum: 0.90026
