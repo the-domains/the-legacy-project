@@ -1,25 +1,34 @@
-layout_spectrum: 0
+cta:
+  domain: null
+  bucket: null
+  version: null
+layout_spectrum: 1
+favicon: null
+name: The Legacy Project
+purpose: []
+analytics:
+  facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
 collections:
   - index:
+      paginate: true
       path: /
       number: 15
-      paginate: true
       navigable: true
     feed:
-      path: /rss.xml
       format: rss
+      path: /rss.xml
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
 color:
-  saturation: 0.9375
   brandStrength: 0
-  rhythmicContrast: 0.25
+  saturation: 0.9375
   brandColors:
     - '#020100'
     - '#c6b194'
@@ -27,14 +36,5 @@ color:
     - '#835b37'
     - '#9d8563'
   lightness: 0
+  rhythmicContrast: 0.25
 typography_spectrum: 0.90026
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: The Legacy Project
