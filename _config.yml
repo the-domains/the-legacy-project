@@ -2,7 +2,7 @@ cta:
   domain: null
   bucket: null
   version: null
-layout_spectrum: 1
+layout_spectrum: 0
 favicon: null
 name: The Legacy Project
 purpose: []
